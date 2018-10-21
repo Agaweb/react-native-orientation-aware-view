@@ -1,0 +1,33 @@
+{
+  "name": "react-native-orientation-aware-view",
+  "title": "React Native Orientation Aware View",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasBertazzon/react-native-orientation-aware-view.git",
+    "baseUrl": "https://github.com/NicholasBertazzon/react-native-orientation-aware-view"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Nicholas Bertazzon",
+    "email": "nico.bertazzon@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">= 16.4.1",
+    "react-native": ">= 0.56.0"
+  },
+  "devDependencies": {
+    "react": ">= 16.4.1",
+    "react-native": ">= 0.56.0"
+  }
+}
