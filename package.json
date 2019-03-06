@@ -1,7 +1,7 @@
 {
   "name": "react-native-orientation-aware-view",
   "title": "React Native Orientation Aware View",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
