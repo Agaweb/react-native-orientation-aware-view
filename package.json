@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NicholasBertazzon/react-native-orientation-aware-view.git",
-    "baseUrl": "https://github.com/NicholasBertazzon/react-native-orientation-aware-view"
+    "url": "git+https://github.com/Agaweb/react-native-orientation-aware-view.git",
+    "baseUrl": "https://github.com/Agaweb/react-native-orientation-aware-view"
   },
   "keywords": [
     "react-native"
