@@ -1,5 +1,5 @@
 {
-  "name": "react-native-orientation-aware-view",
+  "name": "@agaweb/react-native-orientation-aware-view",
   "title": "React Native Orientation Aware View",
   "version": "0.3.0",
   "description": "",
@@ -7,11 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Agaweb/react-native-orientation-aware-view.git",
-    "baseUrl": "https://github.com/Agaweb/react-native-orientation-aware-view"
-  },
+  "repository": "https://github.com/Agaweb/react-native-orientation-aware-view",
   "keywords": [
     "react-native"
   ],
@@ -20,6 +16,10 @@
     "email": "nico.bertazzon@gmail.com"
   },
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Agaweb/react-native-orientation-aware-view/issues"
+  },
+  "homepage": "https://github.com/Agaweb/react-native-orientation-aware-view",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
   "peerDependencies": {
