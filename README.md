@@ -3,7 +3,7 @@
 
 ## Getting started
 
-`$ npm install react-native-orientation-aware-view --save`
+`$ npm i @agaweb/react-native-orientation-aware-view`
 
 ## Usage
 
@@ -18,7 +18,7 @@ The view inherits all the props and adds four others.
 
 ### Example
 ```javascript
-import OrientationAwareView from "react-native-orientation-aware-view";
+import OrientationAwareView from "@agaweb/react-native-orientation-aware-view";
 
 <OrientationAwareView
     style={{ flex: 1 }}
